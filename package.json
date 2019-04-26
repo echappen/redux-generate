@@ -1,0 +1,25 @@
+{
+  "name": "redux-generate",
+  "version": "1.0.0",
+  "description": "Generator commands for redux",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echappen/redux-generate.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Eleni Chappen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echappen/redux-generate/issues"
+  },
+  "homepage": "https://github.com/echappen/redux-generate#readme",
+  "bin": {
+    "redux-generate": "./index.js"
+  }
+}
